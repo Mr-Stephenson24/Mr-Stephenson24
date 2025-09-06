@@ -21,7 +21,7 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| https://github.com/Mr-Stephenson24/Splunk-for-Log-Analysis-
+| Splunk-for-Log-Analysis-
 
 
 
