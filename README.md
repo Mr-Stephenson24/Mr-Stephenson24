@@ -42,7 +42,7 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 
 <img src="https://img.shields.io/badge/-Security%20Analyst%20Level%201-2D3748?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 
-
+<img src="https://img.shields.io/badge/-Technical%20Support%20Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Technical Support Fundamentals" />
 </div>
 
 ## Projects
