@@ -17,7 +17,7 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory and Monitoring Lab           | <a href="https://google.com">Active Directory and Monitring Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Home SOC + SEIM Monitoring Lab                | <a href="https://google.com">Home SOC + SEIM Monitoring Lab </a>|
 | Analysing DNS Log files using Splunk          | DNS Monitoring Lab|
 | Analying FTP Logs Files using Splunk          | FTP Monitoring Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
