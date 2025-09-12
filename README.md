@@ -40,6 +40,9 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
+<img src="https://img.shields.io/badge/-Security%20Analyst%20Level%201-2D3748?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+
+
 </div>
 
 ## Projects
