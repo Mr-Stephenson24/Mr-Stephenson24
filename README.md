@@ -16,11 +16,11 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory and Monitoring Lab           | Active Directory and Monitring Lab
-| Home SOC + SEIM Monitoring Lab                | Home SOC + SEIM Monitoring Lab 
+| Active Directory and Monitoring Lab           | Active Directory and Monitring Lab|
+| Home SOC + SEIM Monitoring Lab                | Home SOC + SEIM Monitoring Lab|
 | Analysing DNS Log files using Splunk          | DNS Monitoring Lab|
 | Analying FTP Logs Files using Splunk          | FTP Monitoring Lab|
-
+| Analyzing DHCP Log Files Using Splunk SIEM    | Analyzing DHCP Log Files Using Splunk SIEM|
 
 
 
