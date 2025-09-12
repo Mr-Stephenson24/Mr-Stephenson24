@@ -51,4 +51,4 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 - Home SOC + SEIM Monitoring Lab                
 - Analysing DNS Log files using Splunk          
 - Analying FTP Logs Files using Splunk          
-
+- Analyzing DHCP Log Files Using Splunk SIEM
