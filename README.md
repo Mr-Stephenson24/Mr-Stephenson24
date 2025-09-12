@@ -20,7 +20,7 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 | Home SOC + SEIM Monitoring Lab                | Home SOC + SEIM Monitoring Lab 
 | Analysing DNS Log files using Splunk          | DNS Monitoring Lab|
 | Analying FTP Logs Files using Splunk          | FTP Monitoring Lab|
-https://github.com/Mr-Stephenson24/Splunk-for-Log-Analysis-?tab=readme-ov-file
+
 
 
 
