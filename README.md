@@ -18,8 +18,8 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 |-----------------------------------------------|----------------------------|
 | Active Directory and Monitoring Lab           | <a href="https://google.com">Active Directory and Monitring Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Analysing DNS Log files using Splunk          | DNS Monitoring Lab|
+| Analying FTP Logs Files using Splunk          | FTP Monitoring Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Splunk-for-Log-Analysis-
 
