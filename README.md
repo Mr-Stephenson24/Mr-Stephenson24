@@ -16,7 +16,7 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory and Monitoring Lab           | Active Directory and Monitring Lab|
+| Active Directory and Monitoring               | Active Directory and Monitoring Lab
 | Home SOC + SEIM Monitoring Lab                | Home SOC + SEIM Monitoring Lab|
 | Analysing DNS Log files using Splunk          | DNS Monitoring Lab|
 | Analying FTP Logs Files using Splunk          | FTP Monitoring Lab|
@@ -47,7 +47,11 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 
 ## Projects
 - Detection Lab
-- Active Directory and Monitoring Lab           
+
+ <a href="https://github.com/Mr-Stephenson24/Active-Directory-Lab-Setup" target="_blank">
+  Active Directory Lab Setup
+</a>
+
 - Home SOC + SEIM Monitoring Lab                
 - Analysing DNS Log files using Splunk          
 - Analying FTP Logs Files using Splunk          
