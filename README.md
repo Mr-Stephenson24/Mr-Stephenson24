@@ -46,13 +46,21 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 </div>
 
 ## Projects
-- Detection Lab
 
  <a href="https://github.com/Mr-Stephenson24/Active-Directory-Lab-Setup" target="_blank">
   Active Directory Lab Setup
-</a>
+</a><br>
 
-- Home SOC + SEIM Monitoring Lab                
-- Analysing DNS Log files using Splunk          
-- Analying FTP Logs Files using Splunk          
-- Analyzing DHCP Log Files Using Splunk SIEM
+
+<a href="https://github.com/Mr-Stephenson24/Analyzing-FTP-Log-Files-Using-Splunk-SIEM" target="_blank">
+  Analyzing FTP Log Files Using Splunk SIEM
+</a><br>
+
+
+<a href="https://github.com/Mr-Stephenson24/Analyzing-DHCP-Log-Files-Using-Splunk-SIEM-" target="_blank">
+  Analyzing DHCP Log Files Using Splunk SIEM
+</a<br>
+
+
+Home SOC + SEIM Monitoring Lab                
+
