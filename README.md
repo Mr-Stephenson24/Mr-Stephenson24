@@ -59,8 +59,11 @@ Enthusiastic recent graduate with a strong foundation in cybersecurity principle
 
 <a href="https://github.com/Mr-Stephenson24/Analyzing-DHCP-Log-Files-Using-Splunk-SIEM-" target="_blank">
   Analyzing DHCP Log Files Using Splunk SIEM
-</a<br>
+</a<br><br>
 
 
-Home SOC + SEIM Monitoring Lab                
+<a href="https://github.com/Mr-Stephenson24/Home-SOC-SEIM-Monitoring-Lab-" target="_blank">
+  Home SOC SIEM Monitoring Lab
+</a><br>
+             
 
